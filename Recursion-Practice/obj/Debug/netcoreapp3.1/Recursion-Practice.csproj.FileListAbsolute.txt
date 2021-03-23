@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.exe
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.deps.json
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.dll
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.pdb
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.dll
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.pdb
+C:\Users\Lenovo\source\repos\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.genruntimeconfig.cache
